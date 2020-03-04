@@ -25,9 +25,9 @@ namespace RPS.Tests
     [TestMethod]
     public void CheckWin_CheckWinner_Player()
     {
-      Game newGame = new Game("r", "s");
-      string result = newGame.CheckWin("r", "s");
-      Assert.AreEqual("r", result);
+      Game newGame = new Game("r", "p");
+      string result = newGame.CheckWin("r", "p");
+      Assert.AreEqual("p", result);
     }
   }
 }

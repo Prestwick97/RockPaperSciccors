@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/RockPaperScissors/RPS/RPS.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS/RPS.csproj",
       "projectName": "RPS",
-      "projectPath": "/Users/Guest/Desktop/RockPaperScissors/RPS/RPS.csproj",
+      "projectPath": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS/RPS.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/RockPaperScissors/RPS/obj/",
+      "outputPath": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

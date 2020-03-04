@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/RockPaperScissors/RPS.Tests/RPS.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS.Tests/RPS.Tests.csproj",
       "projectName": "RPS.Tests",
-      "projectPath": "/Users/Guest/Desktop/RockPaperScissors/RPS.Tests/RPS.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS.Tests/RPS.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/RockPaperScissors/RPS.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5856,8 +5856,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/RockPaperScissors/RPS/RPS.csproj": {
-              "projectPath": "/Users/Guest/Desktop/RockPaperScissors/RPS/RPS.csproj"
+            "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS/RPS.csproj": {
+              "projectPath": "/Users/Guest/Desktop/RockPaperScissors.Solution/RPS/RPS.csproj"
             }
           }
         }
