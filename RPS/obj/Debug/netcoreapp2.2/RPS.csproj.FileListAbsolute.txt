@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/RockPaperScissors/RPS/bin/Debug/netcoreapp2.2/RPS.deps.json
+/Users/Guest/Desktop/RockPaperScissors/RPS/bin/Debug/netcoreapp2.2/RPS.runtimeconfig.json
+/Users/Guest/Desktop/RockPaperScissors/RPS/bin/Debug/netcoreapp2.2/RPS.runtimeconfig.dev.json
+/Users/Guest/Desktop/RockPaperScissors/RPS/bin/Debug/netcoreapp2.2/RPS.dll
+/Users/Guest/Desktop/RockPaperScissors/RPS/bin/Debug/netcoreapp2.2/RPS.pdb
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.csprojAssemblyReference.cache
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.AssemblyInfo.cs
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.dll
+/Users/Guest/Desktop/RockPaperScissors/RPS/obj/Debug/netcoreapp2.2/RPS.pdb
