@@ -1,3 +1,5 @@
+using System;
+
 namespace RPS.Models
 {
   public class Game
@@ -15,7 +17,7 @@ namespace RPS.Models
     {
       if (player1 == player2)
       {
-        return true;   
+        return true;
       }
       return false;
     }
@@ -58,8 +60,8 @@ namespace RPS.Models
           }
         } 
       }
-    return player1;
     CheckDraw(player1, player2);
+    return "Draw";
     }  
   }
 }
